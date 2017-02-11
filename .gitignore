@@ -4,7 +4,8 @@
 
 audio_cache/
 dectalk/
-
+ffmpeg*
+ffprobe*
 discord.log
 config/options.ini
 config/permissions.ini
